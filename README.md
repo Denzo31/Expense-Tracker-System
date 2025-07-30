@@ -19,14 +19,6 @@ A comprehensive web-based application to help users manage their personal financ
 - MySQL (database)
 - Chart.js (data visualization)
 
-## Setup Instructions
-1. Clone or download this repository.
-2. Import the SQL file in `db/schema.sql` into your MySQL database.
-3. Update `db/config.php` with your database credentials.
-4. Place the project folder in your XAMPP/WAMP `htdocs` directory.
-5. Start Apache and MySQL from XAMPP/WAMP control panel.
-6. Access the app at `http://localhost/expense_tracker`.
-
 ## Folder Structure
 - `index.php` - Home/Landing page
 - `register.php` - User registration
@@ -42,9 +34,6 @@ A comprehensive web-based application to help users manage their personal financ
 - `css/` - Stylesheets
 - `diagrams/` - System design diagrams
 
-## Screenshots
-*[Include screenshots here]*
-
 ## Future Enhancements
 - Bank account integration
 - Recurring transactions
@@ -52,13 +41,10 @@ A comprehensive web-based application to help users manage their personal financ
 - Financial insights and recommendations
 - Mobile app version
 
-## License
-For educational use only.
-
 ## Author
-[Your Name]
+RUTAGANIRA SHEMA Derrick
 
 ## Acknowledgments
 - Chart.js for data visualization
 - Font Awesome for icons
-- XAMPP for local development environment 
+- XAMPP for the local development environment 
